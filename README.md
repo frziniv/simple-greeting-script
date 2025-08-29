@@ -1,2 +1,2 @@
 recipient = "GitHub Community"
-print(f"Hello, {recipient}!")
+print(f"Hello, {}!")
